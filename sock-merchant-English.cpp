@@ -4,7 +4,7 @@ using namespace std;
 
 vector<string> split_string(string);
 #define fr(i,a,b) for(int i=a;i<b;i++)
-// Complete the sockMerchant function below.
+
 int sockMerchant(int n, vector<int> ar) {
     int count,main_c=0;//,reg=0;
     /*O(n2)
